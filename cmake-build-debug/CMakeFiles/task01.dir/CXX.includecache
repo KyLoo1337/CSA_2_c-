@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vlado/Desktop/01-proc-c++/Ball.h
+Figure.h
+C:/Users/vlado/Desktop/01-proc-c++/Figure.h
+
+C:/Users/vlado/Desktop/01-proc-c++/Figure.h
+iostream
+-
+
+C:/Users/vlado/Desktop/01-proc-c++/Parallelepiped.h
+Figure.h
+C:/Users/vlado/Desktop/01-proc-c++/Figure.h
+
+C:/Users/vlado/Desktop/01-proc-c++/Tetrahedron.h
+Figure.h
+C:/Users/vlado/Desktop/01-proc-c++/Figure.h
+
+C:/Users/vlado/Desktop/01-proc-c++/main.cpp
+iostream
+-
+fstream
+-
+Ball.h
+C:/Users/vlado/Desktop/01-proc-c++/Ball.h
+Parallelepiped.h
+C:/Users/vlado/Desktop/01-proc-c++/Parallelepiped.h
+Tetrahedron.h
+C:/Users/vlado/Desktop/01-proc-c++/Tetrahedron.h
+vector
+-
+sstream
+-
+algorithm
+-
+

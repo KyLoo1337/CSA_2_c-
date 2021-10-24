@@ -1,0 +1,15 @@
+1
+Ball
+R = 2
+density = 31
+surface area = 50.2655
+3
+Tetrahedron
+edge = 15
+density = 6
+surface area = 25.9808
+2
+Parallelepiped
+edges: 1; 2; 3
+density = 321
+surface area = 22
